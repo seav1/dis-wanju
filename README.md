@@ -9,15 +9,15 @@
 
 1、修改玩具容器的启动文件为server.jar
 
-![image](https://github.com/dsadsadsss/dis-wanju/blob/main/png/1.PNG)
+![image](https://github.com/seav1/dis-wanju/blob/main/png/1.PNG)
 
 2、上传文件本仓库中的server.jar和start.sh,修改start.sh中的变量
 
-![image](https://github.com/dsadsadsss/dis-wanju/blob/main/png/2.PNG)
+![image](https://github.com/seav1/dis-wanju/blob/main/png/2.PNG)
 
 
 3、修改server.jar和start.sh权限为777，然后运行
 
-![image](https://github.com/dsadsadsss/dis-wanju/blob/main/png/3.PNG)
+![image](https://github.com/seav1/dis-wanju/blob/main/png/3.PNG)
 
 4、某些平台为ARM如cortexnodes.com，需要将脚本换成arm的脚本，其他一样
